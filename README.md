@@ -4,6 +4,6 @@
 
 - Estefania Osma Llanes - 2202028, Miguel Angel Parada - 2201167, Michael Andrey Maldonado - 2200148
 
-# ***Objetivo del Proyecto:***  
+## ***Objetivo del Proyecto:***  
 
 Desarrollar un modelo de regresión lineal para predecir la cantidad de delitos en las diferentes zonas del municipio de Bucaramanga.
